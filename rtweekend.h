@@ -5,6 +5,8 @@
 #include <limits>
 #include <memory>
 
+#include "ray.h"
+#include "vec3.h"
 
 // Usings
 
@@ -25,7 +27,6 @@ inline double degrees_to_radians(double degrees) {
 
 // Common Headers
 
-#include "ray.h"
-#include "vec3.h"
+
 
 #endif
